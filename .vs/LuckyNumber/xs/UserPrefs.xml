@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A7CC3F49-46B5-46D9-9003-E11514A7096E}|Default">
+  <MonoDevelop.Ide.ItemProperties.LuckyNumber AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 5" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LuckyNumber/Resources/values/strings.xml">
+    <Files>
+      <File FileName="LuckyNumber/Resources/layout/content_main.xml" Line="11" Column="11" />
+      <File FileName="LuckyNumber/Resources/values/strings.xml" Line="8" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LuckyNumber" expanded="True">
+            <Node name="LuckyNumber" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True">
+                  <Node name="strings.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
